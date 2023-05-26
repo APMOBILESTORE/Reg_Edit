@@ -1,0 +1,51 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell]
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Chrome]
+"Icon"="\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Chrome\Command]
+@="\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Control Panel]
+"Icon"="\"%SystemRoot%\\System32\\control.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Control Panel\Command]
+@="control"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\CSC Login Chrome]
+"Icon"="\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\CSC Login Chrome\Command]
+@="chrome.exe https://digitalseva.csc.gov.in/"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\CSC Login Firefox]
+"Icon"="\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\CSC Login Firefox\Command]
+@="firefox.exe https://digitalseva.csc.gov.in/"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Device Manager]
+"Icon"="control hdwwiz.cpl"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Device Manager\Command]
+@="control hdwwiz.cpl"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DigiPay]
+"Icon"="\"C:\\CSC E-Governance Service\\DigiPay.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DigiPay\Command]
+@="\"C:\\CSC E-Governance Service\\DigiPay.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Email]
+"Icon"="\"%SystemRoot%\\System32\\Dxpserver.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Email\Command]
+@="chrome.exe https://mail.google.com/"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Photo Editor]
+"Icon"="\"C:\\Program Files (x86)\\Microsoft Office\\Office14\\OIS.EXE\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Photo Editor\Command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office14\\OIS.EXE\""
